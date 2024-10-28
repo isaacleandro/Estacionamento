@@ -8,7 +8,7 @@ export default function InputWithLabel({
 }) {
     return (
         <div>
-            <label className="block text-sm font-medium leading-6 text-gray-800">
+            <label className="block text-sm font-black leading-6 text-gray-800">
               {label}
             </label>
             <div className="mt-2">
