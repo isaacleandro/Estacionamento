@@ -1,6 +1,5 @@
 "use client";
 import { usePathname, useRouter } from "next/navigation";
-
 import { Car, LetterCircleP, SignOut } from "@phosphor-icons/react/dist/ssr"
 export default function SideBar() {
 
